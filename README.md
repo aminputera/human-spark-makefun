@@ -1,6 +1,8 @@
 # Human Spark
 
 [![make.fun · bring-the-humans-01](https://make.fun/badge/bring-the-humans-01.svg)](https://make.fun/bounty/bring-the-humans-01)
+[![rank](https://make.fun/badge/bring-the-humans-01/aminputera/human-spark-makefun/rank.svg)](https://make.fun/bounty/bring-the-humans-01/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-01/aminputera/human-spark-makefun/reward.svg)](https://make.fun/bounty/bring-the-humans-01)
 
 An independent bilingual invitation to make.fun. Built for Bring the humans.
 
