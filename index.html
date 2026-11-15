@@ -87,6 +87,7 @@ document.querySelectorAll('.questions details').forEach(detail=>{
    if(other!==detail)other.open=false;
   });
  });
+});
 document.getElementById('language').addEventListener('click',()=>{
  language=language==='en'?'id':'en';document.documentElement.lang=language;
  document.querySelectorAll('[data-en]').forEach(el=>{el.textContent=el.dataset[language]});
